@@ -91,7 +91,9 @@ The password should be within 3 to 10 characters long.
 ## Endpoints
 
 POST /api/auth/registration - registration, the body of the request should contain name, login and password.
+
 POST /api/auth/login - sign in, the body of the request should contain login and password.
 
 GET /api/users/ - list of users, the request should contain Authorization header with Bearer JWT-token.
+
 PUT /api/users/change - changing of the subordination, the request should contain Authorization header with Bearer JWT-token.
