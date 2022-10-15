@@ -25,62 +25,62 @@ password: test
 
 2. Terence Wolf
 login: terencewolf@test.com
-password: test
+password: test,
 boss id: 1
 
 3. Lexi-Mae Milne
 login: lexi-maemilne@test.com
-password: test
+password: test,
 boss id: 2
 
 4. Vihaan Noel
 login: vihaannoel@test.com
-password: test
+password: test,
 boss id: 2
 
 5. Gurveer Gonzalez
 login: gurveergonzalez@test.com
-password: test
+password: test,
 boss id: 2
 
 6. Kelsi Field
 login: kelsifield@test.com
-password: test
+password: test,
 boss id: 3
 
 7. Janine Schultz
 login: janineschultz@test.com
-password: test
+password: test,
 boss id: 3
 
 8. Hussein Nielsen
 login: husseinnielsen@test.com
-password: test
+password: test,
 boss id: 4
 
 9. Cohen Wynn
 login: cohenwynn@test.com
-password: test
+password: test,
 boss id: 4
 
 10. Bethany Montoya
 login: bethanymontoya@test.com
-password: test
+password: test,
 boss id: 6
 
 11. Arian Richardson
 login: arianrichardson@test.com
-password: test
+password: test,
 boss id: 6
 
 12. Lara Fletcher
 login: larafletcher@test.com
-password: test
+password: test,
 boss id: 8
 
 13. Mahamed Macias
 login: mahamedmacias@test.com
-password: test
+password: test,
 boss id: 11
 
 ## Loging in
